@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1",
+    "name": "Shopping list",
+    "created": "April 20, 2023",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "",
+    "arhived": true
+  },
+  {
+    "id": "2",
+    "name": "Shopping",
+    "created": "April 27, 2023",
+    "category": "Task",
+    "content": "Tomatoes, bread, milk.",
+    "date": "24/12/2023",
+    "arhived": false
+  },
+  {
+    "id": "3",
+    "name": "New Feature",
+    "created": "May 20, 2023",
+    "category": "Idea",
+    "content": "Implement new plant",
+    "date": "20/3/2023, 5/5/2023",
+    "arhived": true
+  },
+  {
+    "id": "4",
+    "name": "Shopping list",
+    "created": "April 20, 2023",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "",
+    "arhived": true
+  },
+  {
+    "id": "5",
+    "name": "The theory of evolution",
+    "created": "April 27, 2023",
+    "category": "Random thought",
+    "content": "The theory of evolution read.",
+    "date": "",
+    "arhived": false
+  },
+  {
+    "id": "6",
+    "name": "New Feature",
+    "created": "May 20, 2023",
+    "category": "Idea",
+    "content": "Implement new plant",
+    "date": "20/3/2023, 5/5/2023",
+    "arhived": true
+  },
+  {
+    "id": "7",
+    "name": "Shopping list",
+    "created": "April 20, 2023",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "",
+    "arhived": true
+  },
+  {
+    "id": "8",
+    "name": "The theory of evolution",
+    "created": "April 27, 2023",
+    "category": "Random thought",
+    "content": "The theory of evolution read.",
+    "date": "",
+    "arhived": false
+  },
+  {
+    "id": "9",
+    "name": "New Feature",
+    "created": "May 20, 2023",
+    "category": "Idea",
+    "content": "Implement new plant",
+    "date": "20/3/2023, 5/5/2023",
+    "arhived": true
+  },
+  {
+    "id": "10",
+    "name": "Shopping list",
+    "created": "April 20, 2023",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "",
+    "arhived": false
+  },
+  {
+    "id": "1dCqHvMV9krBgc7wQPhGo",
+    "arhived": false,
+    "name": "New note",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "21/01/2023",
+    "created": "Thu Aug 03 2023"
+  },
+  {
+    "id": "hIZFHGuInwpoPhuQF8WeQ",
+    "arhived": false,
+    "name": "New note",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "21/01/2023",
+    "created": "Thu Aug 03 2023"
+  },
+  {
+    "id": "0cx3ERANqlWOaOYKGYsKK",
+    "arhived": false,
+    "name": "New note",
+    "category": "Task",
+    "content": "Tomatoes, bread.",
+    "date": "21/01/2023",
+    "created": "Aug 3, 2023"
+  }
+]
