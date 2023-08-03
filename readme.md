@@ -1,4 +1,4 @@
-#SyncChrono - Notes API
+# SyncChrono - Notes API
 
 ## POST /notes Create a note object.
 <img width="800" alt="CreateNote" src="https://github.com/savchyndd/sync-chrono-nodejs/assets/96209694/94ba7203-2d66-46f4-af96-9ded65e97ce6">
